@@ -3,7 +3,17 @@ guid: d6a5df6c04520497c8560923e25150fb
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bark_TwistedTree
+    second: {fileID: 2100000, guid: 10fc3addc0220ac2dbedd95c82d5573b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaves_TwistedTree
+    second: {fileID: 2100000, guid: 85856f228dd00c0f08067228760323e1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
