@@ -50,7 +50,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 14d485e64f2a566fe8460a356ffc9deb, type: 3}
       propertyPath: m_Name
-      value: TwistedTree_1
+      value: TwistyBoi
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -97,13 +97,13 @@ LODGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4786914877072753036}
   serializedVersion: 2
-  m_LocalReferencePoint: {x: 0, y: 0, z: 0}
-  m_Size: 1
+  m_LocalReferencePoint: {x: -4.5836363, y: 8.161273, z: -0.95209694}
+  m_Size: 16.725496
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
-  - screenRelativeHeight: 0.05224108
+  - screenRelativeHeight: 0.10322086
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 6444217617717387353}
